@@ -1,7 +1,7 @@
-# 📽️ Paginas em HTML 
+# 📽️ Paginas em HTML Com Bootstrap 5
  
 ## 🗒️Descrição do Projeto 
-O Total Focus é uma plataforma web interativa desenvolvida como pesquisa acadêmica sobre a fragmentação da atenção, o impacto das interrupções e a cultura de resposta imediata entre jovens profissionais e estudantes no ambiente de trabalho e no cotidiano.
+A História dos Video Games é um site desenvolvido para documentar e apresentar a trajetória dos jogos eletrônicos, desde seus primeiros experimentos e consoles pioneiros até as tecnologias atuais, destacando as inovações, os títulos mais icônicos e o impacto cultural de cada período. 
  
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
 Para Web (2026.2)**, "este website foi construído para demonstrar na prática a estruturação semântica em HTML5, estilização avançada com variáveis CSS e design responsivo, além da integração de microaplicações interativas em JavaScript puro com bibliotecas externas como Bootstrap 5 e Chart.js.
