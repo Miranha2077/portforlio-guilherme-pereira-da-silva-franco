@@ -28,6 +28,6 @@ aplicação.
  
 ## 🎬Deploy do projeto 
  
-[Clique para acessar](https://miranha2077.github.io/Entrega-5/) 
+[Clique para acessar](https://miranha2077.github.io/Entrega-4-Historia-Dos-Video-Games/) 
  --- 
-[Voltar ao início](https://github.com/ZK-Eduardo/portfolio-eduardo-alcantara-dias-da-silva)
+[Voltar ao início](https://github.com/Miranha2077/portforlio-guilherme-pereira-da-silva-franco)
